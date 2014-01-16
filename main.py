@@ -25,8 +25,6 @@ row = """<div class="col-xs-4">%(one)s</div>
     <div class="col-xs-4">%(two)s</div>
     <div class="col-xs-4">%(three)s</div>"""
 
-account_sid = "AC03701871ae569b1ec0facf7b8ad41e19"
-auth_token = "9908bfe073c98b4ac3fc0afce32ff77f"
 
 webpage = file('index.html').read()
 
